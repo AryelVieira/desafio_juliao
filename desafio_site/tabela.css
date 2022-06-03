@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    font-size: 20px;
+    background-color: #201b2c;
+    background-image: url("./img/solar-system.svg");
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    color: #77ffc0;;
+}
+
+th {
+    color: white;
+}
+
+tr {
+    font-size: medium;
+    color: white;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    background-color: #48695a;
+    padding: 8px 10px;
+    width: 50%;
+    border-color: #77ffc0;
+
+}
+
+table td,
+table th {
+    padding: 8px 10px;
+}
+
+
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+}
+h3{
+    font-size: 30px;
+}
+
+.card-tabela{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: transparent;
+    border-color:#00000056; ;
+    border-radius: 20px;
+    box-shadow: 0px 10px 80px #00000056;
+    margin-left: 400px;
+}
